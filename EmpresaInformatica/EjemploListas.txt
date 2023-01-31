@@ -1,0 +1,10 @@
+PROG0;Prog1;1200.0;[]
+PROG1;Prog2;1500.0;[]
+PROG2;Prog3;1800.0;[]
+Resp1;500;1800.0;RESP3;[]
+Resp2;700;800.0;RESP4;[]
+Resp3;1000;2800.0;RESP5;[]
+Paco;10;1000.0;RESP6;[]
+12;1000;proyecto1
+3;1200;proyecto2
+2;1200;proyecto3
